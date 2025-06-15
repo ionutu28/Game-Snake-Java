@@ -49,8 +49,9 @@ It includes real-time gameplay, scoring, collision detection, and clean keyboard
 
 ## 📂 Project Structure
 /src
- ├── Main.java         // Entry point that creates the game window
- ├── GamePanel.java    // Handles game loop, rendering, and key input
- ├── GameFrame.Java    // Frames the game, the strcture of it
+ ├── Main.java        // Entry point – launches the game
+ ├── GameFrame.java   // Creates the game window (JFrame)
+ └── GamePanel.java   // Handles game logic, drawing, and input
+
 
 
