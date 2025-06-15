@@ -30,13 +30,13 @@ It includes real-time gameplay, scoring, collision detection, and clean keyboard
 ## 📷 Screenshots
 
 ### ▶️ Game Start  
-<img src="in game.png" alt="in game Screenshot" width="500">
+<img src="start game.png" alt="in game Screenshot" width="500">
 > The game launches in a new window with a bordered play area and score displayed.
 
 ---
 
 ### 🎮 In-Game  
-*(Insert a screenshot here)*  
+<img src="in game.png" alt="in game Screenshot" width="500">
 > Use the arrow keys to control the snake. The snake grows with each food eaten, and the score updates accordingly.
 
 ---
