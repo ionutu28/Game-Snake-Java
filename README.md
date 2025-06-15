@@ -30,7 +30,7 @@ It includes real-time gameplay, scoring, collision detection, and clean keyboard
 ## 📷 Screenshots
 
 ### ▶️ Game Start  
-*(Insert a screenshot here)*  
+<img src="in game.png" alt="in game Screenshot" width="500">
 > The game launches in a new window with a bordered play area and score displayed.
 
 ---
